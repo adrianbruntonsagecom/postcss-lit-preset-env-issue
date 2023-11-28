@@ -1,0 +1,8 @@
+.button { 
+    columns: 3;
+    
+    &:focus,
+    &:active {
+        outline: none;
+    }
+}
